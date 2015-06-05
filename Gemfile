@@ -71,4 +71,7 @@ gem 'mini_magick', '3.8.0'
 gem 'carrierwave'
 gem "paperclip", "~> 4.2"
 
+#puma
+gem 'puma'
+
 ruby "2.1.3"
