@@ -72,6 +72,6 @@ gem 'carrierwave'
 gem "paperclip", "~> 4.2"
 
 #puma
-gem 'puma'
+# gem 'puma'
 
 ruby "2.1.3"
