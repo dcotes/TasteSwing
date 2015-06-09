@@ -8,7 +8,7 @@ gem 'pry'
 gem 'pg' 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.2.1'
+# gem 'rails', '4.2.1'
 
 #enable all platform functions
 gem 'rails_12factor', group: :production
@@ -74,4 +74,4 @@ gem "paperclip", "~> 4.2"
 #puma
 gem 'puma'
 
-ruby "2.1.3"
+# ruby "2.1.3"
