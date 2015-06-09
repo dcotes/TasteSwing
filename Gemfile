@@ -74,4 +74,4 @@ gem "paperclip", "~> 4.2"
 #puma
 gem 'puma'
 
-# ruby "2.1.3"
+ruby "2.1.3"
